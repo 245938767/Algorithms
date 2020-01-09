@@ -2,7 +2,6 @@ package cn.xiaodi;
 
 public class ShellSort {
     public ShellSort(int[]a){
-        int n=1;
         for(int gap=a.length/2;gap>0;gap/=2){
             for(int k=gap;k<a.length;k++){
                 for(int i=k-gap;i>=0;i=i-gap){
