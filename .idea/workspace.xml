@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4ea96eb-ebc7-439d-9d41-18d494bca24b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LYQDataBase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LYQDataBase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LYQDataBase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LYQDataBase/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LYQDataBase/LYQDataBase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LYQDataBase/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LYQDataBase/jyaml-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LYQDataBase/src/com/lyq/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LYQDataBase/src/com/lyq/Md5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LYQDataBase/src/com/lyq/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LYQDataBase/src/com/lyq/TdbBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LYQDataBase/src/com/lyq/TdbDisply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LYQDataBase/src/com/lyq/TdbHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-3667008486-3171788581-3209921042-500/$R63C32E.idea/lyqcode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/xiaodi/SearchThreesRank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/xiaodi/SearchThreesRank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/.idea/libraries/jyaml_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/Data.tdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/database.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/jyaml-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/com/lyq/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/com/lyq/Md5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/com/lyq/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/com/lyq/TdbBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/com/lyq/TdbDisply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/com/lyq/TdbHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/src/com/lyq/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/src/com/lyq/Md5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/src/com/lyq/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/src/com/lyq/TdbBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/src/com/lyq/TdbDisply.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/src/com/lyq/TdbHandle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lyqcode/internal_learning_records/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lyqcode/internal_learning_records/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lyqcode/internal_learning_records/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lyqcode/internal_learning_records/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../year9pc1/Year9FileDatabase/Year9FileDatabase.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../year9pc1/year9pc1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/JDY-18-1.5手册/APP开发源码/BLE无线控制器源码（android/CircleSeekBar/bin/classes/com/example/jdy_touchuang/AV_Stick$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/JDY-18-1.5手册/APP开发源码/BLE无线控制器源码（android/CircleSeekBar/bin/classes/com/lee/circleseekbar/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/JDY-18-1.5手册/APP开发源码/BLE无线控制器源码（android/CircleSeekBar/bin/dexedLibs/DeviceListAdapter-1d09b09d1e0201097b041d0b7e387f50.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/JDY-18-1.5手册/APP开发源码/BLE无线控制器源码（android/CircleSeekBar/bin/res/crunch/drawable/array.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/JDY-18-1.5手册/APP开发源码/BLE无线控制器源码（android/CircleSeekBar/bin/res/crunch/drawable/key_img1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/JDY-18-1.5手册/APP开发源码/BLE无线控制器源码（android/CircleSeekBar/bin/res/crunch/drawable/light_semitrans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/JDY-18-1.5手册/APP开发源码/BLE无线控制器源码（android/CircleSeekBar/bin/res/crunch/drawable/massager_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/JDY-18-1.5手册/APP开发源码/BLE无线控制器源码（android/CircleSeekBar/res/drawable-xxhdpi/sjj_cent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/JDY-18-1.5手册/APP开发源码/BLE无线控制器源码（android/CircleSeekBar/res/drawable/array.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/JDY-18-1.5手册/APP开发源码/BLE无线控制器源码（android/CircleSeekBar/res/drawable/home_btn_bg_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/JDY-18-1.5手册/APP开发源码/BLE无线控制器源码（android/CircleSeekBar/res/drawable/iconditu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/JDY-18-1.5手册/APP开发源码/BLE无线控制器源码（android/CircleSeekBar/res/drawable/progressbar_first.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/JDY-18-1.5手册/APP开发源码/BLE无线控制器源码（android/CircleSeekBar/res/drawable/thumb_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/JDY-18-1.5手册/APP开发源码/JDY-LED源码（ IOS/JDY-LED源码（ IOS/__MACOSX/JDY-BLE-SDK-IOS-V1.5/JDY-BLE-SDK-IOS/Base.lproj/._Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/mwc教程与软件合集/MWC教程与软件合集/MultiWiiConf调试/MultiWii_2_3官方原版/MultiWiiConf/application.linux32/librxtxSerial.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/mwc教程与软件合集/MWC教程与软件合集/MultiWiiConf调试/MultiWii_2_3官方原版/MultiWiiConf/application.windows32/MultiWiiConf.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/mwc教程与软件合集/MWC教程与软件合集/MultiWii_2_3(郝峰调试好的固定翼固件）/MultiWiiConf/application.windows32/rxtxSerial.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/mwc教程与软件合集/MWC教程与软件合集/MultiWii_2_3(郝峰调试好的固定翼固件）/MultiWiiConf/application.windows64/lib/args.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/mwc教程与软件合集/MWC教程与软件合集/MultiWii_2_3(郝峰调试好的固定翼固件）/MultiWiiConf/application.windows64/rxtxSerial.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/mwc教程与软件合集/MWC教程与软件合集/MultiWii_2_3(郝峰调试好的无刷四轴固件）/MultiWiiConf/application.linux64/lib/core.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/mwc教程与软件合集/MWC教程与软件合集/MultiWii_2_3(郝峰调试好的有刷四轴固件）/MultiWiiConf/application.linux32/lib/core.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/mwc教程与软件合集/MWC教程与软件合集/MultiWii_2_3(郝峰调试好的有刷四轴固件）/MultiWiiConf/application.linux32/lib/serial.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习文件/项目文件/ardniuo/mwc教程与软件合集/MWC教程与软件合集/工具/arduino-1.6.10-windows.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Algorithms\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W9ZzfdunZK4LCVOUzBB3IdY12N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.xiaodi.Main" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.xiaodi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4ea96eb-ebc7-439d-9d41-18d494bca24b" name="Default Changelist" comment="" />
+      <created>1578564035063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578564035063</updated>
+      <workItem from="1578564038918" duration="2321000" />
+      <workItem from="1578573417589" duration="1757000" />
+      <workItem from="1578923522585" duration="2721000" />
+    </task>
+    <task id="LOCAL-00001" summary="&quot;基于二分查找的map&quot;">
+      <created>1578925685447</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578925685447</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;基于二分查找的map&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;基于二分查找的map&quot;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1578923620849">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1578923620849" />
+    <state x="283" y="58" key="CommitChangelistDialog2" timestamp="1578925684303">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="283" y="58" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578925684303" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1578566372379">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578566372379" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1578566372379">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578566372379" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1578566372379">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578566372379" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1578566372379">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578566372379" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1578925690565">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578925690565" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1578923607571">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578923607571" />
+  </component>
+</project>
