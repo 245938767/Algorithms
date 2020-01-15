@@ -1,6 +1,7 @@
 package cn.xiaodi;
 
 public class SearchThrees <Key,Value>{
+    private int N;
     private Node first;
    private class Node {
        Key key;
@@ -29,5 +30,7 @@ public class SearchThrees <Key,Value>{
            }
        }
        first=new Node(key,value,first);
+       N++;
          }
+         public int Size(){return N;}
 }

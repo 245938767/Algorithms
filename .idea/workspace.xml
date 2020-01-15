@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4ea96eb-ebc7-439d-9d41-18d494bca24b" name="Default Changelist" comment="&quot;基于二分查找的map主程序&quot;">
-      <change afterPath="$PROJECT_DIR$/src/cn/xiaodi/SelectSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LYQDataBase/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LYQDataBase/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LYQDataBase/.idea/vcs.xml" afterDir="false" />
@@ -37,8 +36,12 @@
       <change beforePath="$PROJECT_DIR$/../3T数据/image/2017-9-16——2020-1-1/知乎/v2-f146f22d28f0fe9fae7c4afa732816d6.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/xiaodi/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/cn/xiaodi/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/xiaodi/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/cn/xiaodi/ShellSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/xiaodi/SearchThrees$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/cn/xiaodi/SearchThrees$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/xiaodi/SearchThrees.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/cn/xiaodi/SearchThrees.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/xiaodi/SearchThreesRank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/cn/xiaodi/SearchThreesRank.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cn/xiaodi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/xiaodi/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/xiaodi/SearchThrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/xiaodi/SearchThrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/xiaodi/SearchThreesRank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/xiaodi/SearchThreesRank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../database/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../database/.idea/libraries/jyaml_1_3.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../database/.idea/misc.xml" beforeDir="false" />
@@ -180,7 +183,7 @@
       <workItem from="1578573417589" duration="1757000" />
       <workItem from="1578923522585" duration="2901000" />
       <workItem from="1579017790828" duration="355000" />
-      <workItem from="1579076861810" duration="501000" />
+      <workItem from="1579076861810" duration="5881000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;基于二分查找的map&quot;">
       <created>1578925685447</created>
@@ -203,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579076979190</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;选择排序完成&quot;">
+      <created>1579077447138</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579077447138</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,40 +222,45 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;基于二分查找的map&quot;" />
     <MESSAGE value="&quot;基于二分查找的map主程序&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;基于二分查找的map主程序&quot;" />
+    <MESSAGE value="&quot;选择排序完成&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;选择排序完成&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="23" key="#Project_Structure" timestamp="1578923620849">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1578923620849" />
-    <state x="237" y="58" key="CommitChangelistDialog2" timestamp="1579076998041">
+    <state x="237" y="58" key="CommitChangelistDialog2" timestamp="1579077446164">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="237" y="58" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579076998041" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1578566372379">
+    <state x="237" y="58" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579077446164" />
+    <state width="661" height="179" key="GridCell.Tab.0.bottom" timestamp="1579100039160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578566372379" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1578566372379">
+    <state width="661" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579100039160" />
+    <state width="661" height="179" key="GridCell.Tab.0.center" timestamp="1579100039144">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578566372379" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1578566372379">
+    <state width="661" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579100039144" />
+    <state width="661" height="179" key="GridCell.Tab.0.left" timestamp="1579100039144">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578566372379" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1578566372379">
+    <state width="661" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579100039144" />
+    <state width="661" height="179" key="GridCell.Tab.0.right" timestamp="1579100039160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578566372379" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1579077020338">
+    <state width="661" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579100039160" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1579077453700">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579077020338" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579077453700" />
     <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1579076869076">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579076869076" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1579100150297">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1579100150297" />
   </component>
 </project>
