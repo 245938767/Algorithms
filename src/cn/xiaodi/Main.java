@@ -17,21 +17,16 @@ public class Main {
         searchThreesRank.put("7","7awdsdffa");
         searchThreesRank.put("8","8asfwdfa");
         searchThreesRank.put("9","9awdsffa");
-        SearchShow(searchThreesRank);
+        searchThreesRank.getAll();
         searchThreesRank.delete("5");
         searchThreesRank.delete("8");
         searchThreesRank.delete("3");
         System.out.println("删除后");
-        SearchShow(searchThreesRank);
+        searchThreesRank.getAll();
     }
     private static void SortShow(int[]a){
         for(int i=0;i<a.length;i++){
             System.out.print(a[i]+" ");
-        }
-    }
-    private static void SearchShow(SearchThreesRank STR){
-        for(int i=1;i<=STR.Size();i++){
-            System.out.println("Key:"+STR.getkey(i)+"  Value: "+STR.get(String.valueOf(i)));
         }
     }
 }

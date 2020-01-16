@@ -24,13 +24,12 @@ public class SearchThreesRank <Key extends Comparable<Key>,Value>{
         }
         return lo;
     }
-    public Key getkey(Key key){
-        if(isEmpty())return null;
-        int i=rank(key);
-        if(i<N && key.compareTo(keys[i])==0){
-            return keys[i];
+    public void getAll(){
+        int len=N,i;
+        for( i=0;i<len;i++){
+            System.out.println("Key:"+keys[i]+"  value:"+values[i]);
         }
-        return null;
+        System.out.println("总个数："+i);
     }
     public Value get(Key key){
         if(!isEmpty())return null;
